@@ -1,0 +1,22 @@
+form{
+  padding: 25px;
+}
+
+.account-details{
+  margin: 25px 0 25px 0;
+}
+
+.control-label{
+  color: #0D47A1 !important;
+}
+
+p.text-center{
+  margin: 0 !important;
+}
+
+@media(max-width:767px){
+  #btnLogin{
+    display: block;
+    width: 100%;
+  }
+}

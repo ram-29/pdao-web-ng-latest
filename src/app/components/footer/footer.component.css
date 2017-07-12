@@ -1,0 +1,32 @@
+/*footer*/
+#footer{
+  color: #999; /* IE8 proofing */
+  color: rgba(255,255,255,.5);
+  background-color: #333;
+  padding: 50px 0 50px 0;
+}
+
+@media(min-width: 1024px){
+  #footer .col-md-2{
+    border-right: 1px solid #616161;
+  }
+}
+
+#footer h4, #footer h5{
+  color: #fff;
+}
+
+#footer ul li{
+  list-style: none;
+}
+
+.list-lower>li{
+  display: inline;
+  border-right: 1px solid #616161;
+  padding-left: 5px;
+  padding-right: 10px;
+}
+
+.list-lower>li:last-child{
+  border-right: none;
+}

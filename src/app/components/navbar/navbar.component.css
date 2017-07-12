@@ -1,0 +1,48 @@
+.progress{
+  margin-bottom: 0px !important;
+}
+
+.navbar-brand>a{
+  text-decoration: none;
+}
+
+.link-brand{
+  outline: none !important;
+}
+
+.link-main:hover, .link-main:focus{
+  color: #2196f3 !important;
+  outline: none !important;
+}
+
+
+@media (min-width:768px) {
+  .signUp{
+    margin-left: 6px
+  }
+
+  .logIn, .signUp{
+    border-radius: 2px;
+    margin-top: 14px;
+    padding-top: 6px;
+    padding-bottom: 8px;
+  }
+
+  .logIn {
+    color: #2196F3 !important;
+  }
+
+  .logIn:hover {
+    color: #0D47A1;
+    background-color: #EEEEEE !important;
+  }
+
+  .signUp {
+    color: #FFFFFF !important;
+    background-color: #2196F3 !important;
+  }
+
+  .signUp:hover{
+    background-color: #1976D2 !important;
+  }
+}

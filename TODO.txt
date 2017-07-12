@@ -1,0 +1,19 @@
+//List of TODO items.
+1. User UI
+2. Admin UI
+3. Request Form UI
+4. Question Form UI
+5. Forum Question UI
+6. Event UI
+7. Announcement UI
+8. Interface for Happenings->Announcement
+9. api for specific Routes
+  * User Route
+  * Admin Route
+  * Request:Form Route
+  * Question:Form Route
+  * Event Route
+  * Announcement Route
+10. Web Tokens
+11. Route Guards 
+12. Services

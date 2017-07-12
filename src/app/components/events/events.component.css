@@ -1,0 +1,7 @@
+.nav-tabs>li>a{
+  font-size: 0.7em;
+}
+
+.list-group-item{
+  padding-bottom: 0px !important;
+}

@@ -1,0 +1,49 @@
+/*forum*/
+.nav-tabs>li>a{
+  font-size: 0.7em;
+}
+
+.q-va{
+  width: 24%;
+  margin-right: .3em;
+}
+
+.q-va>p{
+  font-size: 1.2em;
+}
+
+.q-main{
+  width: 74%;
+}
+
+.badge-success{
+  background-color: #4caf50;
+}
+
+/*Rush Design Spec*/
+li.rush-1, li.rush-2, li.rush-3{
+  background-color: #f5f5f5 !important;
+  border-left-width: 3px !important;
+  border-left-style: solid !important;
+}
+
+li.rush-1{
+  border-left-color: #2196f3 !important;
+}
+
+li.rush-2{
+  border-left-color: #ff9800 !important;
+}
+
+li.rush-3{
+  border-left-color: #e51c23 !important;
+}
+
+/*Special Announcements Design Spec*/
+div.primary, ul.primary, li.primary, legend.primary{
+  border-color: #2196f3 !important;
+}
+
+div.warning, ul.warning, li.warning, legend.warning{
+  border-color: #ff9800 !important;
+}

@@ -1,0 +1,9 @@
+/*Special Announcements Design Spec*/
+
+div.primary, ul.primary, li.primary, legend.primary{
+  border-color: #2196f3 !important;
+}
+
+div.warning, ul.warning, li.warning, legend.warning{
+  border-color: #ff9800 !important;
+}
