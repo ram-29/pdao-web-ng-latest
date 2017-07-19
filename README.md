@@ -1,7 +1,6 @@
 # PDAO Website on Ng@Latest
 
-A capstone project built on ng1 and [Firebase](https://github.com/firebase). 
-Transitioning on ng@latest. generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0.
+A capstone project built on [AngularJS](https://angularjs.org/) and [Firebase](https://github.com/firebase). Transitioning on [Angular@latest](https://angular.io/). Generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0.
 
 ## Development server
 
