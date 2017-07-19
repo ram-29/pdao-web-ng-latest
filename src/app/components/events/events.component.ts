@@ -1,15 +1,17 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, AfterViewInit } from '@angular/core';
+
+declare var $: any;
 
 @Component({
   selector: 'app-events',
   templateUrl: './events.component.html',
   styleUrls: ['./events.component.css']
 })
-export class EventsComponent implements OnInit {
+export class EventsComponent implements AfterViewInit {
 
   constructor() { }
 
-  ngOnInit() {
+  ngAfterViewInit() {
+    $('.fancybox').fancybox();
   }
-
 }
